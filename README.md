@@ -8,4 +8,11 @@ Adding two scripts in package.json
     "dev" : "nodemon index"
   },
  `
+ 
 ![image](https://user-images.githubusercontent.com/86548591/148643511-5873b876-b5ba-42d5-beea-5b0ee42e6b5e.png)
+
+=> Notes : 
+1. `start` is for deployment and production
+2. `dev` is for development
+
+Run `npm run script-name` i.e `npm run dev` in terminal
