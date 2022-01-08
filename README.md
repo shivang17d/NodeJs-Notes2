@@ -23,4 +23,4 @@ Run `npm run script-name` i.e `npm run dev` in terminal
 
 Check output on http://localhost:3000/ in browser
 
-### [Mini Project] (https://github.com/shivangguptax/NodeJs-Notes3)
+# [Mini Project](https://github.com/shivangguptax/NodeJs-Notes3)
