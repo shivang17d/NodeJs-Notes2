@@ -16,3 +16,5 @@ Adding two scripts in package.json
 2. `dev` is for development
 
 Run `npm run script-name` i.e `npm run dev` in terminal
+
+![image](https://user-images.githubusercontent.com/86548591/148643613-73fd1153-e347-4226-9f44-93a26dba0cd1.png)
